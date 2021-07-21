@@ -1,0 +1,1 @@
+This is a notes taking application created with the help of HTML, CSS(BootStrap), Django & MySQL database.
